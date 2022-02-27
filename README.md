@@ -28,8 +28,9 @@
 
 
 
-或者直接打开目录下的  labelImg.exe
-
+或者下载工具  labelImg.exe
+链接：https://pan.baidu.com/s/14iBlyr3ahhymMukeWjtTEA 
+提取码：c1dx
 
 
 ------
