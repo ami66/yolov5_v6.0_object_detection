@@ -1,0 +1,10 @@
+# Custom data for safety helmet
+train: ./datasets/split/images/train
+val: ./datasets/split/images/test
+
+# Classes
+nc: 9  # number of classes
+names: ['name_cn','name_en','name_code','birthday','sex','type','issue_date','closing_date','id_number'] # class names
+
+
+

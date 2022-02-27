@@ -1,0 +1,26 @@
+
+epython:S1192%"HDefine a constant instead of duplicating this literal './1.jpg' 3 times.(Öú¤µúÿÿÿÿ
+dpython:S2208"GImport only needed names or import the module and then use its members.(èá•‰üÿÿÿÿ
+ipython:S100J"MRename method "_addNoise" to match the regular expression ^[a-z_][a-z0-9_]*$.(Çú„³úÿÿÿÿ
+;python:S125Q"Remove this commented out code.(×Î‘Õøÿÿÿÿ
+gpython:S100`"PRename method "_changeLight" to match the regular expression ^[a-z_][a-z0-9_]*$.(¸ÆÔô
+Cpython:S1481™"%Remove the unused local variable "n".(»—˜°øÿÿÿÿ
+lpython:S117q"PRename this parameter "boxA" to match the regular expression ^[_a-z][a-z0-9_]*$.(°Ã“Æøÿÿÿÿ
+vpython:S117…"YRename this local variable "boxAArea" to match the regular expression ^[_a-z][a-z0-9_]*$.(Øª ûÿÿÿÿ
+lpython:S117q"PRename this parameter "boxB" to match the regular expression ^[_a-z][a-z0-9_]*$.(°Ã“Æøÿÿÿÿ
+qpython:S117†"YRename this local variable "boxBArea" to match the regular expression ^[_a-z][a-z0-9_]*$.(Áê¨ö
+rpython:S117"ZRename this local variable "interArea" to match the regular expression ^[_a-z][a-z0-9_]*$.(·Ã´’
+opython:S117x"SRename this local variable "xA" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶å¤èÿÿÿÿÿ
+ipython:S117z"SRename this local variable "xB" to match the regular expression ^[_a-z][a-z0-9_]*$.(Šö¢i
+jpython:S117y"SRename this local variable "yA" to match the regular expression ^[_a-z][a-z0-9_]*$.(£€ñû
+ipython:S117{"SRename this local variable "yB" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú½‡~
+Jpython:S1481…",Remove the unused local variable "boxAArea".(Øª ûÿÿÿÿ
+<python:S125®"Remove this commented out code.(ûˆÿ¡ùÿÿÿÿ
+<python:S125“"Remove this commented out code.(ŠÍ©Úúÿÿÿÿ
+<python:S125Ê"Remove this commented out code.(É‹È§ûÿÿÿÿ
+gpython:S100û"ORename method "dataAugment" to match the regular expression ^[a-z_][a-z0-9_]*$.(ïÕ
+7python:S125"Remove this commented out code.(ÃÓôÅ
+<python:S125«"Remove this commented out code.(ÒÅ‰¶øÿÿÿÿ
+7python:S125°"Remove this commented out code.(£İç
+<python:S125Æ"Remove this commented out code.(·Ã£¾ıÿÿÿÿ
+7python:S125Ô"Remove this commented out code.(óÇÚ
