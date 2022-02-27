@@ -386,5 +386,5 @@ https://github.com/ultralytics/yolov5
 
 扫下方二维码关注公众号
 
-![](./机器学习算法AI大数据技术_datanlp.jpg)
+![公众号_机器学习算法AI大数据技术_datanlp](./机器学习算法AI大数据技术_datanlp.jpg)
 
