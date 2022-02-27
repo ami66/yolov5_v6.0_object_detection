@@ -328,7 +328,7 @@ yolo5_inference目录下是清理掉无关代码后的模型部署推理代码�
 
 
 
-![348e6d2c1a4b05bbe803453744e56c7e](./blob/main/runs/detect/exp/348e6d2c1a4b05bbe803453744e56c7e.jpeg)
+![348e6d2c1a4b05bbe803453744e56c7e](https://user-images.githubusercontent.com/24771833/155885674-28c75133-3d83-40da-a49d-0a9fcdef5070.jpeg)
 
 
 
@@ -336,7 +336,7 @@ yolo5_inference目录下是清理掉无关代码后的模型部署推理代码�
 
 
 
-![5f77238d9f6fbb676a2fcd3ebee3dbad](./blob/main/runs/detect/exp/5f77238d9f6fbb676a2fcd3ebee3dbad.jpeg)
+![5f77238d9f6fbb676a2fcd3ebee3dbad](https://user-images.githubusercontent.com/24771833/155885689-146f1193-9f43-4bd5-9baa-26f07774c178.jpeg)
 
 
 
