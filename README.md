@@ -328,7 +328,7 @@ yolo5_inference目录下是清理掉无关代码后的模型部署推理代码�
 
 
 
-![348e6d2c1a4b05bbe803453744e56c7e](./runs/detect/exp/348e6d2c1a4b05bbe803453744e56c7e.jpeg)
+![348e6d2c1a4b05bbe803453744e56c7e](./blob/main/runs/detect/exp/348e6d2c1a4b05bbe803453744e56c7e.jpeg)
 
 
 
@@ -336,7 +336,7 @@ yolo5_inference目录下是清理掉无关代码后的模型部署推理代码�
 
 
 
-![5f77238d9f6fbb676a2fcd3ebee3dbad](./runs/detect/exp/5f77238d9f6fbb676a2fcd3ebee3dbad.jpeg)
+![5f77238d9f6fbb676a2fcd3ebee3dbad](./blob/main/runs/detect/exp/5f77238d9f6fbb676a2fcd3ebee3dbad.jpeg)
 
 
 
@@ -386,5 +386,5 @@ https://github.com/ultralytics/yolov5
 
 扫下方二维码关注公众号
 
-![公众号_机器学习算法AI大数据技术_datanlp](./机器学习算法AI大数据技术_datanlp.jpg)
+![公众号_机器学习算法AI大数据技术_datanlp](./blob/main/机器学习算法AI大数据技术_datanlp.jpg)
 
