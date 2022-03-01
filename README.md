@@ -11,7 +11,7 @@
 ### 一.环境
 
 ```text
-    Python >= 3.7
+    Python >= 3.6
     Pytorch >= 1.5.x
 ```
 
